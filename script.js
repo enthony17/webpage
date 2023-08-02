@@ -1,1 +1,5 @@
-alert("Eu sou uma janela chata Js");
+
+function myFunction() {
+  alert("Hello! I am an alert box!");
+}
+
